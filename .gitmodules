@@ -1,0 +1,24 @@
+[submodule "openimis-be_py"]
+	path = openimis-be_py
+	url = https://github.com/openimis/openimis-be_py.git
+	branch = main
+[submodule "openimis-fe_js"]
+	path = openimis-fe_js
+	url = https://github.com/openimis/openimis-fe_js.git
+	branch = main
+[submodule "openimis-be-claim_batch_py"]
+	path = openimis-be-claim_batch_py
+	url = https://github.com/openimis/openimis-be-claim_batch_py.git
+	branch = main
+[submodule "openimis-be-calculation_py"]
+	path = openimis-be-calculation_py
+	url = https://github.com/openimis/openimis-be-calculation_py.git
+	branch = main
+[submodule "openimis-be-contribution_plan_py"]
+	path = openimis-be-contribution_plan_py
+	url = https://github.com/openimis/openimis-be-contribution_plan_py.git
+	branch = main
+[submodule "openimis-be-location_py"]
+	path = openimis-be-location_py
+	url = https://github.com/openimis/openimis-be-location_py.git
+	branch = main
